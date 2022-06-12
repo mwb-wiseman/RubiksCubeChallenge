@@ -1,0 +1,32 @@
+D:\Software Dev Learning\RubiksCubeChallenge\RubiksCubeChallenge\bin\Debug\net5.0\RubiksCubeChallenge.exe
+D:\Software Dev Learning\RubiksCubeChallenge\RubiksCubeChallenge\bin\Debug\net5.0\RubiksCubeChallenge.deps.json
+D:\Software Dev Learning\RubiksCubeChallenge\RubiksCubeChallenge\bin\Debug\net5.0\RubiksCubeChallenge.runtimeconfig.json
+D:\Software Dev Learning\RubiksCubeChallenge\RubiksCubeChallenge\bin\Debug\net5.0\RubiksCubeChallenge.runtimeconfig.dev.json
+D:\Software Dev Learning\RubiksCubeChallenge\RubiksCubeChallenge\bin\Debug\net5.0\RubiksCubeChallenge.dll
+D:\Software Dev Learning\RubiksCubeChallenge\RubiksCubeChallenge\bin\Debug\net5.0\RubiksCubeChallenge.pdb
+D:\Software Dev Learning\RubiksCubeChallenge\RubiksCubeChallenge\obj\Debug\net5.0\RubiksCubeChallenge.csproj.AssemblyReference.cache
+D:\Software Dev Learning\RubiksCubeChallenge\RubiksCubeChallenge\obj\Debug\net5.0\RubiksCubeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software Dev Learning\RubiksCubeChallenge\RubiksCubeChallenge\obj\Debug\net5.0\RubiksCubeChallenge.AssemblyInfoInputs.cache
+D:\Software Dev Learning\RubiksCubeChallenge\RubiksCubeChallenge\obj\Debug\net5.0\RubiksCubeChallenge.AssemblyInfo.cs
+D:\Software Dev Learning\RubiksCubeChallenge\RubiksCubeChallenge\obj\Debug\net5.0\RubiksCubeChallenge.csproj.CoreCompileInputs.cache
+D:\Software Dev Learning\RubiksCubeChallenge\RubiksCubeChallenge\obj\Debug\net5.0\RubiksCubeChallenge.dll
+D:\Software Dev Learning\RubiksCubeChallenge\RubiksCubeChallenge\obj\Debug\net5.0\refint\RubiksCubeChallenge.dll
+D:\Software Dev Learning\RubiksCubeChallenge\RubiksCubeChallenge\obj\Debug\net5.0\RubiksCubeChallenge.pdb
+D:\Software Dev Learning\RubiksCubeChallenge\RubiksCubeChallenge\obj\Debug\net5.0\RubiksCubeChallenge.genruntimeconfig.cache
+D:\Software Dev Learning\RubiksCubeChallenge\RubiksCubeChallenge\obj\Debug\net5.0\ref\RubiksCubeChallenge.dll
+D:\GitHub Repositories\RubiksCubeChallenge\RubiksCubeChallenge\RubiksCubeChallenge\bin\Debug\net5.0\RubiksCubeChallenge.exe
+D:\GitHub Repositories\RubiksCubeChallenge\RubiksCubeChallenge\RubiksCubeChallenge\bin\Debug\net5.0\RubiksCubeChallenge.deps.json
+D:\GitHub Repositories\RubiksCubeChallenge\RubiksCubeChallenge\RubiksCubeChallenge\bin\Debug\net5.0\RubiksCubeChallenge.runtimeconfig.json
+D:\GitHub Repositories\RubiksCubeChallenge\RubiksCubeChallenge\RubiksCubeChallenge\bin\Debug\net5.0\RubiksCubeChallenge.runtimeconfig.dev.json
+D:\GitHub Repositories\RubiksCubeChallenge\RubiksCubeChallenge\RubiksCubeChallenge\bin\Debug\net5.0\RubiksCubeChallenge.dll
+D:\GitHub Repositories\RubiksCubeChallenge\RubiksCubeChallenge\RubiksCubeChallenge\bin\Debug\net5.0\RubiksCubeChallenge.pdb
+D:\GitHub Repositories\RubiksCubeChallenge\RubiksCubeChallenge\RubiksCubeChallenge\obj\Debug\net5.0\RubiksCubeChallenge.csproj.AssemblyReference.cache
+D:\GitHub Repositories\RubiksCubeChallenge\RubiksCubeChallenge\RubiksCubeChallenge\obj\Debug\net5.0\RubiksCubeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Repositories\RubiksCubeChallenge\RubiksCubeChallenge\RubiksCubeChallenge\obj\Debug\net5.0\RubiksCubeChallenge.AssemblyInfoInputs.cache
+D:\GitHub Repositories\RubiksCubeChallenge\RubiksCubeChallenge\RubiksCubeChallenge\obj\Debug\net5.0\RubiksCubeChallenge.AssemblyInfo.cs
+D:\GitHub Repositories\RubiksCubeChallenge\RubiksCubeChallenge\RubiksCubeChallenge\obj\Debug\net5.0\RubiksCubeChallenge.csproj.CoreCompileInputs.cache
+D:\GitHub Repositories\RubiksCubeChallenge\RubiksCubeChallenge\RubiksCubeChallenge\obj\Debug\net5.0\RubiksCubeChallenge.dll
+D:\GitHub Repositories\RubiksCubeChallenge\RubiksCubeChallenge\RubiksCubeChallenge\obj\Debug\net5.0\refint\RubiksCubeChallenge.dll
+D:\GitHub Repositories\RubiksCubeChallenge\RubiksCubeChallenge\RubiksCubeChallenge\obj\Debug\net5.0\RubiksCubeChallenge.pdb
+D:\GitHub Repositories\RubiksCubeChallenge\RubiksCubeChallenge\RubiksCubeChallenge\obj\Debug\net5.0\RubiksCubeChallenge.genruntimeconfig.cache
+D:\GitHub Repositories\RubiksCubeChallenge\RubiksCubeChallenge\RubiksCubeChallenge\obj\Debug\net5.0\ref\RubiksCubeChallenge.dll
